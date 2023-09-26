@@ -81,11 +81,16 @@ Success Screen:
 - **Along with the below points, add your checklist specific to the assignment**
 
 - Read the instructions given in the assignment carefully and list down the **Assignment Completion Checklist** for the assignment and start working on it
+- Basic validations for fields (i.e. mobile number should be 10 digit, only of numbers).
+- If OTP is matched then the success screen should be displayed.
+- If OTP is not matched then a proper error message should be displayed.
+- All kinds of validations to stop users from filling garbage values in the fields. 
 - The completion Checklist includes the below-mentioned points
   - I have completed all the functionalities asked in the assignment
   - I have used only the resources (Frameworks, Design files, APIs, third-party packages) mentioned in the assignment
   - I have modified the README.md file based on my assignment instructions
   - I have completed the assignment **ON TIME**
+
 - **Note:**
   - Ensure that you have marked all the checklist points in your completion checklist before submitting the assignment
   </details>
@@ -96,16 +101,22 @@ Success Screen:
 <summary>Click to view</summary>
 <br>
 
-- Add third-party packages list yourself
+- third-party packages list
+    -react-router-dom
+    -react 
 </details>
 
 ### Important Note
 
 <details>
-<summary>Click to view</summary>
+<summary>
+     -> mobile number should be 10 digit,
+     -> If OTP is matched then the success screen should be displayed.
+     -> If OTP is not matched then a proper error message should be displayed.
+     -> only numbers are entered in input field 
+</summary>
 <br/>
 
-- Add any important note here, like user credentials for authentication.
 
 </details>
 
@@ -115,7 +126,7 @@ Success Screen:
 <summary>Data Fetch URLs</summary>
 <br/>
 
-- Add the URLs list to fetch the data yourself
+- No data fetch required for this assignment.
 
 </details>
 
@@ -123,7 +134,10 @@ Success Screen:
 <summary>Image URLs</summary>
 <br/>
 
-- Add the list of all image URLs needed in the assignment yourself.
+- https://res.cloudinary.com/dpvr2hwtj/image/upload/v1695660613/Artboard_1_uwtqsw.png
+- https://res.cloudinary.com/dpvr2hwtj/image/upload/v1695657966/undraw_confirmed_81ex_ebpdb9.png
+- https://res.cloudinary.com/dpvr2hwtj/image/upload/v1695655478/image_1_a7exch.png
+- https://res.cloudinary.com/dpvr2hwtj/image/upload/v1695654202/AK_logo_da3kd6.png
 
 </details>
 
