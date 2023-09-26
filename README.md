@@ -11,7 +11,7 @@ Success Screen: Display a success message and prompt users to continue with the 
 
 ### Refer to the image below:
 
-Add UI reference image yourself
+Add UI reference image 
 
 <div style="text-align: center;">
      <!-- <img src="https://res.cloudinary.com/dpvr2hwtj/image/upload/v1695722525/pro_cxeinp.png" alt="ui"> -->
