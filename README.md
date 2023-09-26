@@ -1,5 +1,14 @@
 Write the objective of the assignment yourself
 
+The objective of this assignment is to create a React-based application with a multi-step user registration process. The application should have three main screens:
+
+Login Screen: Allow users to enter their mobile number and generate an OTP for verification.
+
+OTP Verification Screen: Provide a screen for users to enter the OTP sent to their mobile number and verify it. Users should also have the option to resend the OTP or change their phone number.
+
+Success Screen: Display a success message and prompt users to continue with the registration process.
+
+
 ### Refer to the image below:
 
 Add UI reference image yourself
@@ -39,7 +48,28 @@ Add the design files according to the route (if any) and responsiveness
 
 The app must have the following functionalities:
 
-- Add all the functionalities to be achieved(according to the route, if any) yourself
+The app must have the following functionalities:
+
+Login Screen:
+
+> Users should be able to enter their mobile number.
+> Users should be able to generate an OTP.
+> Input validation should ensure the mobile number is 10 digits and contains only numbers.
+> Upon successful input, users should be redirected to the OTP Verification Screen.
+> Display an error message if mobile number input is invalid.
+
+OTP Verification Screen:
+
+> Users should be able to enter the OTP received on their mobile.
+> OTP verification should be performed, and users should be redirected to the Success Screen upon successful verification.
+> Users should have the option to resend the OTP.
+> Display an error message if the entered OTP is invalid.
+
+Success Screen:
+
+> Display a success message upon successful login or OTP verification.
+> Provide a button to continue to the next step in the registration process.
+
 
 </details>
 
