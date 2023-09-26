@@ -1,0 +1,70 @@
+.con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: lightblue;
+  height: 100vh;
+}
+.block1 {
+  display: flex;
+  flex-direction: row;
+}
+.block2 {
+  display: flex;
+  flex-direction: column;
+  margin-left: 450px;
+  justify-content: center;
+  background-color: white;
+  min-height: 400px;
+  width: 400px;
+  border-radius: 20px;
+}
+.logo1 {
+  height: 50px;
+  width: 260px;
+  align-self: center;
+}
+.flag {
+  height: 30px;
+  width: 30px;
+}
+.wel-h1 {
+  align-self: center;
+}
+.inner {
+  display: flex;
+  flex-direction: row;
+}
+.inp-box {
+  height: 35px;
+  width: 220px;
+}
+.inp-bl {
+  margin-left: 50px;
+}
+.para {
+  align-self: center;
+  font-size: 15px;
+}
+.para1 {
+  align-self: center;
+  font-size: 10px;
+}
+.send {
+  height: 30px;
+  width: 130px;
+  border-radius: 20px;
+  background-color: lightsalmon;
+  color: white;
+  align-self: center;
+}
+.lab {
+  font-size: 10px;
+}
+.num {
+  margin: 0px;
+}
+.warn {
+  color: red;
+  font-size: 12px;
+}

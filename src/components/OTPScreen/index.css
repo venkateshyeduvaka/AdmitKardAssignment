@@ -1,0 +1,24 @@
+.image {
+  height: 140px;
+  width: 140px;
+  align-self: center;
+}
+.Otp-box {
+  align-self: center;
+}
+.link-to {
+  font-size: 15px;
+  color: aquamarine;
+  align-self: center;
+  margin-left: 120px;
+}
+.para4 {
+  align-self: center;
+  font-size: 15px;
+  color: blue;
+}
+.resend {
+  font-size: 15px;
+  color: aquamarine;
+  align-self: center;
+}
